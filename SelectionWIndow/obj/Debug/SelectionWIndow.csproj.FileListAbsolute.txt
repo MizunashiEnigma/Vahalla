@@ -1,0 +1,15 @@
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\bin\Debug\SelectionWIndow.exe.config
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\bin\Debug\SelectionWIndow.exe
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\bin\Debug\SelectionWIndow.pdb
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\obj\Debug\SelectionWIndow.csproj.AssemblyReference.cache
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\obj\Debug\MainWindow.g.cs
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\obj\Debug\App.g.cs
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\obj\Debug\SelectionWIndow_MarkupCompile.cache
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\obj\Debug\SelectionWIndow_MarkupCompile.lref
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\obj\Debug\MainWindow.baml
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\obj\Debug\SelectionWIndow.g.resources
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\obj\Debug\SelectionWIndow.Properties.Resources.resources
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\obj\Debug\SelectionWIndow.csproj.GenerateResource.cache
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\obj\Debug\SelectionWIndow.csproj.CoreCompileInputs.cache
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\obj\Debug\SelectionWIndow.exe
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\obj\Debug\SelectionWIndow.pdb
