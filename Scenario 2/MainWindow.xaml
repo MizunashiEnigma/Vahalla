@@ -1,0 +1,36 @@
+﻿<Window x:Class="Scenario_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Scenario_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="720" Width="1280"
+        KeyDown="Window_KeyDown"
+        Closing="Window_Closing"
+        Activated="Window_Activated"
+        Deactivated="Window_Deactivated"
+        WindowState="Maximized">
+    <Grid>
+        <Canvas Height="720" Width="1280">
+            <Canvas Height="720" Width="1280" Background="Red" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <Image x:Name="imgVisual9" Source="image/TileBackground.png" Stretch="Fill" Opacity="1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="1280" Height="720" Panel.ZIndex="1"/>
+            </Canvas>
+            <Canvas Height="46" Width="285" Background="Azure" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="87" Canvas.Top="483">
+                <TextBlock x:Name="txtVisualNovelName" TextWrapping="Wrap" Text="Name here" HorizontalAlignment="Left" VerticalAlignment="Top" Width="285" Height="46" FontSize="28" Panel.ZIndex="2" Canvas.Left="10" Canvas.Top="10" ></TextBlock>
+                <Image x:Name="imgVisual5" Source="image/checkerBackground_Green.png" HorizontalAlignment="Left" VerticalAlignment="Top" Panel.ZIndex="1" Width="285" Height="46" Opacity="0.5"/>
+            </Canvas>
+            <Canvas Width="1025" Height="163" Canvas.Top="552" Canvas.Left="87" Background="Green" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <TextBlock x:Name="txtVisualNovelText" TextWrapping="Wrap" Text="Press Spacebar to start..." HorizontalAlignment="Left" VerticalAlignment="Center" Width="1025" Height="163" RenderTransformOrigin="0.5,0.5" FontSize="36" Panel.ZIndex="2" Canvas.Left="10">
+                </TextBlock>
+                <Image x:Name="imgVisual2" Source="image/checkerBackground_blue.png" Stretch="Fill" Opacity="1" HorizontalAlignment="Left" VerticalAlignment="Center" Width="1025" Height="163" Panel.ZIndex="1">
+
+                </Image>
+
+            </Canvas>
+            <Canvas Height="410" Width="308" Canvas.Top="115" Canvas.Left="494" Background="Blue" RenderTransformOrigin="2.131,1.242" HorizontalAlignment="Left" VerticalAlignment="Top">
+                <Image x:Name="imgVisual1" Source="image/default2.jpg" Height="410" Width="308" HorizontalAlignment="Left" VerticalAlignment="Center" Canvas.Left="-8"/>
+            </Canvas>
+        </Canvas>
+    </Grid>
+</Window>

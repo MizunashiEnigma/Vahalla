@@ -1,0 +1,18 @@
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\Scenario 2\bin\Debug\Scenario 2.exe.config
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\Scenario 2\bin\Debug\Scenario 2.exe
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\Scenario 2\bin\Debug\Scenario 2.pdb
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\Scenario 2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\Scenario 2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\Scenario 2\obj\Debug\Scenario 2.csproj.AssemblyReference.cache
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\Scenario 2\obj\Debug\MainWindow.g.cs
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\Scenario 2\obj\Debug\App.g.cs
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\Scenario 2\obj\Debug\Scenario 2_MarkupCompile.cache
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\Scenario 2\obj\Debug\Scenario 2_MarkupCompile.lref
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\Scenario 2\obj\Debug\MainWindow.baml
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\Scenario 2\obj\Debug\Scenario 2.g.resources
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\Scenario 2\obj\Debug\Scenario_2.Properties.Resources.resources
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\Scenario 2\obj\Debug\Scenario 2.csproj.GenerateResource.cache
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\Scenario 2\obj\Debug\Scenario 2.csproj.CoreCompileInputs.cache
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\Scenario 2\obj\Debug\Scenario 2.csproj.Up2Date
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\Scenario 2\obj\Debug\Scenario 2.exe
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\Scenario 2\obj\Debug\Scenario 2.pdb
