@@ -53,7 +53,7 @@ namespace Scenario_1
             try
             {
                 // Read the JSON file
-                string jsonFilePath = "../../TEXT_JSON/scenario1.json";
+                string jsonFilePath = "TEXT_JSON/scenario1.json";
                 string jsonText = File.ReadAllText(jsonFilePath);
 
                 // Deserialize JSON to an object
@@ -176,7 +176,7 @@ namespace Scenario_1
         {
             mediaPlayer.Stop();
         }
-        private void ApplyTypingAnimation(string text)
+        private void ApplyTypingAnimation(string text) //GPT v3.5 Generated
         {
             try
             {

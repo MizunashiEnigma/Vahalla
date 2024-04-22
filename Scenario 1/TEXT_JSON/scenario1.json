@@ -11,21 +11,41 @@
     "I sure wish I could travel, but I am very broke.", //9
     "Unfortunately, this is perfectly legal in this country.", //10
     "Pretty much, state-sanctioned slavery.", //11
-    "Help is what i need, not going to lie." //12
+    "Help is what i need, not going to lie.", //12
+    "Huh, I repeated myself. AN odd coincidence.", //13
+    "NOT. This is what my life feels like on an endless repeat.", //14
+    "Can't a magical door that wisks me away exist in my attic?'", //15
+    "Pull up a chair, crack out the popcorn.", //16
+    "Is that a bit too premium for me?", //17
+    "Appearently so. Instead I get to live while life uses me as a human pinata.", //18
+    "My boss is all like 'LEN! Get me that report done today. And you can't go home until then.'", //19
+    "At least the tiny bit of fun I get is reading fake passports.", //20
+    "Or details that sound so fake, until you read them.", //21
+    "Like 'Bin Bin Ng' or 'MY70VE9587@GMEIL.COM'" //22
   ],
   "name": [
-    "???",
-    "???",
-    "???",
-    "Len",
-    "Len",
-    "Len",
-    "Len",
-    "Len",
-    "Len",
-    "Len",
-    "Len",
-    "Len"
+    "???", //1
+    "???", //2
+    "???", //3
+    "Len", //4
+    "Len", //5
+    "Len", //6
+    "Len", //7
+    "Len", //8
+    "Len", //9
+    "Len", //10
+    "Len", //11
+    "Len", //12
+    "Len", //13
+    "Len", //14
+    "Len", //15
+    "Len", //16
+    "Len", //17
+    "Len", //18
+    "Len", //19
+    "Len", //20
+    "Len", //21
+    "Len" //22
   ],
   "images": [
     "image/default1.jpg",
