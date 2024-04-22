@@ -10,6 +10,7 @@ using System.Windows.Data;
 using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
+using System.Windows.Media.Animation;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
@@ -25,6 +26,7 @@ namespace Scenario_1
     {
         private List<string> linesOfText; //this stores the texts
         private List<string> charcterNames; //this stores the name
+        private List<string> charImage; //this stores the image, not that it works. but its here.
         private int currentIndex = 0; // this is for parsing where in the JSON file the program is.
         private MediaPlayer mediaPlayer; // this is the Background Music
         public NewWindow()
@@ -41,6 +43,7 @@ namespace Scenario_1
 
             //// Play background music
             //mediaPlayer.Play();
+            this.WindowState = WindowState.Maximized;
 
             LoadTextFromJson();
         }
@@ -50,7 +53,7 @@ namespace Scenario_1
             try
             {
                 // Read the JSON file
-                string jsonFilePath = "TEXT_JSON/Text.json";
+                string jsonFilePath = "../../TEXT_JSON/scenario1.json";
                 string jsonText = File.ReadAllText(jsonFilePath);
 
                 // Deserialize JSON to an object
@@ -59,6 +62,7 @@ namespace Scenario_1
                 // Get lines of text
                 linesOfText = textModel.Text;
                 charcterNames = textModel.Name;
+                charImage = textModel.Images;
 
                 // Display first line of text
                 DisplayNextLine();
@@ -73,7 +77,9 @@ namespace Scenario_1
             if (currentIndex < linesOfText.Count)
             {
                 txtVisualNovelText.Text = linesOfText[currentIndex];
+                ApplyTypingAnimation(linesOfText[currentIndex]);
                 txtVisualNovelName.Text = charcterNames[currentIndex];
+                //imgVisual1.Source = new BitmapImage(new Uri(charImage[currentIndex])); //Image cannot change, just an inheirant weakness of the file.
                 currentIndex++;
             }
             else
@@ -83,6 +89,7 @@ namespace Scenario_1
                 // Environment.Exit(0); //if spacebar is pressed again \ clicks again, the user exits the scene
                 this.Close();
             }
+
         }
 
         private void Window_KeyDown(object sender, KeyEventArgs e)
@@ -168,6 +175,36 @@ namespace Scenario_1
         private void Window_Deactivated(object sender, EventArgs e)
         {
             mediaPlayer.Stop();
+        }
+        private void ApplyTypingAnimation(string text)
+        {
+            try
+            {
+                // Create a Storyboard
+                Storyboard storyboard = new Storyboard();
+
+                // Add StringAnimationUsingKeyFrames to simulate typing effect
+                StringAnimationUsingKeyFrames animation = new StringAnimationUsingKeyFrames();
+                animation.Duration = TimeSpan.FromSeconds(text.Length * 0.1); // Adjust duration based on text length
+                for (int i = 0; i <= text.Length; i++)
+                {
+                    animation.KeyFrames.Add(new DiscreteStringKeyFrame(text.Substring(0, i), KeyTime.FromTimeSpan(TimeSpan.FromSeconds(i * 0.022))));
+                }
+
+                // Set the TargetProperty
+                Storyboard.SetTarget(animation, txtVisualNovelText);
+                Storyboard.SetTargetProperty(animation, new PropertyPath(TextBlock.TextProperty));
+
+                // Add the animation to the Storyboard
+                storyboard.Children.Add(animation);
+
+                // Begin the animation
+                storyboard.Begin();
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Error applying typing animation: " + ex.Message);
+            }
         }
     }
 }

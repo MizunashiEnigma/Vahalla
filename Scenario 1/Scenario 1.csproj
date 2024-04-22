@@ -94,7 +94,7 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
-    <None Include="TEXT_JSON\Text.json" />
+    <None Include="TEXT_JSON\scenario1.json" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -108,6 +108,9 @@
     <Resource Include="image\default1.jpg" />
     <Resource Include="image\default2.jpg" />
     <Resource Include="image\think1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\TileBackground.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

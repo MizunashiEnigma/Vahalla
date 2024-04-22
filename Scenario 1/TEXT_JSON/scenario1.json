@@ -1,0 +1,37 @@
+{
+  "text": [
+    "Wonder what I should say here.....", //1
+    "Ah. I know. My name.", //2
+    "I suppose that 'Len' should do for now.", //3
+    "Im just some wage slave working for peanuts, if anything.", //4
+    "Taking this bit a little far, don't you think?", //5
+    "Nah, I'm not even joking. Im literally working for nothing.", //6
+    "Im confined to this instant noodle lifestyle.", //7
+    "Help is what I need, not going to lie.", //8
+    "I sure wish I could travel, but I am very broke.", //9
+    "Unfortunately, this is perfectly legal in this country.", //10
+    "Pretty much, state-sanctioned slavery.", //11
+    "Help is what i need, not going to lie." //12
+  ],
+  "name": [
+    "???",
+    "???",
+    "???",
+    "Len",
+    "Len",
+    "Len",
+    "Len",
+    "Len",
+    "Len",
+    "Len",
+    "Len",
+    "Len"
+  ],
+  "images": [
+    "image/default1.jpg",
+    "image/default1.jpg",
+    "image/default1.jpg",
+    "image/default2.jpg",
+    "image/default2.jpg"
+  ]
+}
