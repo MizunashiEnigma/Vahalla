@@ -1,0 +1,50 @@
+{
+  "text": [
+    "SO, I'm just wondering.....Why are we dressed up?'", //1
+    "I don't know. Ask Nova and Alcibiades over there.'", //2
+    "Mad Hatter suits you just fine.", //3
+    "...What are you implying?", //4
+    "Nothing. Only that you drag people in, and then throw them away.", //5
+    "Lets leave them to it. Interestingly, it suits you Suguri.", //6
+    "I dont know what your talking about.", //7
+    "And that's exactly what im talking about.", //8
+    "A lost traveller getting in over their head, the role of Alice fits.", //9a
+    "A traveller that takes in the words of a enigma. One that escaped mortality.", //9b
+    "Perhaps this is the beginning of a new faerie tale, 'Suguri in WonderLand'.", //10
+    "Stop it. My name has already made the rounds, don't give the bards anymore ideas.", //11
+    "Poor thing. He treats you so badly...", //12
+    "Hey, how about becoming my Observer?", //13
+    "I refuse. I am perfectly fine as I am.", //14
+    "Or rather, I don't want to become your dress up doll.'", //15
+    "Help is what i need, not going to lie.", //16
+    "Atleast there's some nerve in there, unlike your well-trained dog over there.'", //17
+    "Help is what i need, not going to lie." //18
+  ],
+  "name": [
+    "Suguri",
+    "Enigma",
+    "Nova",
+    "Enigma",
+    "Nova",
+    "Alcibiades",
+    "Suguri",
+    "Alcibiades",
+    "Alcibiades",
+    "Alcibiades",
+    "Enigma",
+    "Nova",
+    "Nova",
+    "Suguri",
+    "Suguri",
+    "Suguri",
+    "Engima",
+    "Nova"
+  ],
+  "images": [
+    "image/default1.jpg",
+    "image/default1.jpg",
+    "image/default1.jpg",
+    "image/default2.jpg",
+    "image/default2.jpg"
+  ]
+}
