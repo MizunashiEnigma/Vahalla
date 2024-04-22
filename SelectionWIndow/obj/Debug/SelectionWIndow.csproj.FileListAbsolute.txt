@@ -13,3 +13,15 @@ C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\obj\Debug\S
 C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\obj\Debug\SelectionWIndow.csproj.CoreCompileInputs.cache
 C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\obj\Debug\SelectionWIndow.exe
 C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\obj\Debug\SelectionWIndow.pdb
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\bin\Debug\Newtonsoft.Json.dll
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\bin\Debug\Scenario 1.exe
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\bin\Debug\Scenario 1.pdb
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\bin\Debug\Scenario 1.exe.config
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\bin\Debug\Newtonsoft.Json.xml
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\obj\Debug\Selectio.B7268031.Up2Date
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\bin\Debug\Scenario 2.exe
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\bin\Debug\Scenario 2.pdb
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\bin\Debug\Scenario 2.exe.config
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\bin\Debug\Scenario 3.exe
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\bin\Debug\Scenario 3.pdb
+C:\Users\tcawl\Desktop\WPF Project\eX3C_U7E_VaLHa11A\SelectionWIndow\bin\Debug\Scenario 3.exe.config

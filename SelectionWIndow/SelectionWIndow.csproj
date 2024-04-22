@@ -35,6 +35,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
@@ -86,6 +89,7 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
+    <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -96,6 +100,20 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="image\background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Scenario 1\Scenario 1.csproj">
+      <Project>{00875baf-2536-4680-89e0-685f9fbe5149}</Project>
+      <Name>Scenario 1</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Scenario 2\Scenario 2.csproj">
+      <Project>{c8423e87-9d78-4068-bd65-2e1a828ab23f}</Project>
+      <Name>Scenario 2</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Scenario 3\Scenario 3.csproj">
+      <Project>{f5810028-bd55-451d-b226-5ebf89abbe37}</Project>
+      <Name>Scenario 3</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

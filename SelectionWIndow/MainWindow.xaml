@@ -5,15 +5,15 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:SelectionWIndow"
         mc:Ignorable="d"
-        Title="MainWindow" Height="1080" Width="1920">
+        Title="MainWindow" Height="720" Width="1280">
     <Grid>
-        <Canvas Height="1080" Width="1920" />
-        <Canvas Height="1080" Width="1920" Background="Red" HorizontalAlignment="Left" VerticalAlignment="Top">
-            <Image x:Name="imgVisual1" Source="image/background.png" Stretch="Fill" Opacity="1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="1920" Height="1080" Panel.ZIndex="1"/>
-            <TextBlock TextWrapping="Wrap" Text="eX3C U7E VaLHa11A Selection Page"  Height="146" Width="880" Panel.ZIndex="2" FontSize="48" HorizontalAlignment="Left" VerticalAlignment="Center" Canvas.Left="520" TextAlignment="Center"/>
+        <Canvas Height="720" Width="1280" />
+        <Canvas Height="720" Width="1280" Background="Red" HorizontalAlignment="Left" VerticalAlignment="Top">
+            <Image x:Name="imgVisual1" Source="image/background.png" Stretch="Fill" Opacity="1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="1280" Height="720" Panel.ZIndex="1"/>
+            <TextBlock TextWrapping="Wrap" Text="eX3C U7E VaLHa11A Selection Page"  Height="98" Width="588" Panel.ZIndex="2" FontSize="36" HorizontalAlignment="Left" VerticalAlignment="Center" Canvas.Left="346" TextAlignment="Center"/>
         </Canvas>
-        <Button x:Name="btnScenario1" Content="Scenario 1" HorizontalAlignment="Left" Margin="22,150,0,0" VerticalAlignment="Top" Height="68" Width="230" FontSize="36" Click="btnScenario1_Click"/>
-        <Button x:Name="btnScenario2" Content="Scenario 2" HorizontalAlignment="Left" Margin="22,290,0,0" VerticalAlignment="Top" Height="68" Width="230" FontSize="36" Click="btnScenario2_Click"/>
-        <Button x:Name="btnScenario3" Content="Scenario 3" HorizontalAlignment="Left" Margin="22,430,0,0" VerticalAlignment="Top" Height="68" Width="230" FontSize="36" Click="btnScenario2_Click"/>
+        <Button x:Name="btnScenario1" Content="Scenario 1" HorizontalAlignment="Left" Margin="22,150,0,0" VerticalAlignment="Top" Height="46" Width="154" FontSize="24" Click="btnScenario1_Click"/>
+        <Button x:Name="btnScenario2" Content="Scenario 2" HorizontalAlignment="Left" Margin="22,290,0,0" VerticalAlignment="Top" Height="46" Width="154" FontSize="24" Click="btnScenario2_Click"/>
+        <Button x:Name="btnScenario3" Content="Scenario 3" HorizontalAlignment="Left" Margin="22,430,0,0" VerticalAlignment="Top" Height="46" Width="154" FontSize="24" Click="btnScenario3_Click"/>
     </Grid>
 </Window>

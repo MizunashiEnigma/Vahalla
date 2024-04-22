@@ -12,7 +12,9 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-
+using Scenario_1;
+using Scenario_2;
+using Scenario_3;
 namespace SelectionWIndow
 {
     /// <summary>
@@ -23,6 +25,24 @@ namespace SelectionWIndow
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void btnScenario1_Click(object sender, RoutedEventArgs e)
+        {
+            NewWindow scenarioOne = new NewWindow();
+            scenarioOne.Show();
+        }
+
+        private void btnScenario2_Click(object sender, RoutedEventArgs e)
+        {
+            PeaceWindow scenarioTwo = new PeaceWindow();
+            scenarioTwo.Show();
+        }
+
+        private void btnScenario3_Click(object sender, RoutedEventArgs e)
+        {
+            WonderlandWindow scenarioThree = new WonderlandWindow();
+            scenarioThree.Show();
         }
     }
 }
