@@ -14,7 +14,7 @@
     <Grid>
         <Canvas Height="720" Width="1280">
             <Canvas Height="720" Width="1280" Background="Red" HorizontalAlignment="Left" VerticalAlignment="Top">
-                <Image x:Name="imgVisual9" Source="image/TileBackground.png" Stretch="Fill" Opacity="1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="1280" Height="720" Panel.ZIndex="1"/>
+                <Image x:Name="imgVisual9" Source="image/tileBackground.png" Stretch="Fill" Opacity="1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="1280" Height="720" Panel.ZIndex="1"/>
             </Canvas>
             <Canvas Height="46" Width="285" Background="Azure" HorizontalAlignment="Left" VerticalAlignment="Top" Canvas.Left="87" Canvas.Top="483">
                 <TextBlock x:Name="txtVisualNovelName" TextWrapping="Wrap" Text="Name here" HorizontalAlignment="Left" VerticalAlignment="Top" Width="285" Height="46" FontSize="28" Panel.ZIndex="2" Canvas.Left="10" Canvas.Top="10" ></TextBlock>
@@ -28,8 +28,9 @@
                 </Image>
 
             </Canvas>
-            <Canvas Height="410" Width="308" Canvas.Top="115" Canvas.Left="494" Background="Blue" RenderTransformOrigin="2.131,1.242" HorizontalAlignment="Left" VerticalAlignment="Top">
-                <Image x:Name="imgVisual1" Source="image/default2.jpg" Height="410" Width="308" HorizontalAlignment="Left" VerticalAlignment="Center" Canvas.Left="-8"/>
+            <Canvas Height="410" Width="308" Canvas.Top="115" Canvas.Left="773" Background="Blue" RenderTransformOrigin="2.131,1.242" HorizontalAlignment="Left" VerticalAlignment="Center">
+                <Image x:Name="imgVisual1" Source="image/album2.png" Height="410" Width="308" HorizontalAlignment="Left" VerticalAlignment="Center" Canvas.Left="-365"/>
+                <Image x:Name="imgVisual32" Source="image/think1.jpg" Height="410" Width="308" HorizontalAlignment="Center" VerticalAlignment="Center"></Image>
             </Canvas>
         </Canvas>
     </Grid>

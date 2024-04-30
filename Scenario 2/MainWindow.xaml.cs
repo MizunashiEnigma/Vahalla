@@ -50,7 +50,7 @@ namespace Scenario_2
             try
             {
                 // Read the JSON file
-                string jsonFilePath = "TEXT_JSON/scenario3.json";
+                string jsonFilePath = "TEXT_JSON/scenario2.json";
                 string jsonText = File.ReadAllText(jsonFilePath);
 
                 // Deserialize JSON to an object

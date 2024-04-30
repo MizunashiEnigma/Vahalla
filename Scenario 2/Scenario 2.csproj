@@ -94,6 +94,7 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <None Include="TEXT_JSON\scenario2.json" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -124,6 +125,12 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="image\TileBackground.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\Suguri in WonderLand and the Enigmatic Hatter.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\album2.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

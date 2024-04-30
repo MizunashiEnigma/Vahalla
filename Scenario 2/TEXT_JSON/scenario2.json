@@ -1,0 +1,76 @@
+{
+  "text": [
+    "It's time to ROGG'", //1
+    "I think you meant 'rock'", //2
+    "Are you going to take an L so hard, that a green cap will fall from the sky?", //3
+    "Player 2 is....an alright status to have", //4
+    "Taking this bit a little far, don't you think?",
+    "'Rogg' means for me to take action", //6
+    "I don't think that needs to be explained at this point.", //7
+    "Now there Shakespeare, you better save that A-material", //8
+    "With those pieces of art, I feel so funny.", //9
+    "I feel like I could make a brick wall laugh.", //10
+    "Hold up. We need to practice first. Never mind jumping the gun, your flying straight over it!", //11
+    "Alright, let's run through a scenario.", //12
+    "See, I've always had a dream to open a weapon shop.'", //13
+    "I don't know why you're bringing it up now, but sure let's go with that.'", //14
+    "Fancy a bit of practice? I'll be the shopkeeper and you'll be....a...uh..'", //15
+    "..uh, a lion..tamer..?, that.. let his .. lions escape...?", //16
+    "Oh yeah! Make it easy for me, why don't you?!'", //17
+    "Do I look like a professional actor, or something?", //18
+    "No, I own't let you be yourself, Nobody wants to see that!", //19
+    "Fine, I'm a lion tamer, and your the proprietor of the said establishment.", //20
+    "Alright. Knock-knock, How do? Cha-ching", //21
+    "Clear off! Cha-ching", //22
+    "What the hell, man? You just slammed the door in my face!" //23
+  ],
+  "name": [
+    "Rogg", //1
+    "Greeius", //2
+    "Rogg", //3
+    "Greeius", //4
+    "Greeius", //5
+    "Rogg", //6
+    "Rogg", //7
+    "Greeius", //8
+    "Rogg", //9
+    "Rogg", //10
+    "Greeius", //11
+    "Rogg", //12
+    "Rogg", //13
+    "Rogg", //14
+    "Rogg", //15
+    "Rogg", //16
+    "Greeius", //17
+    "Greeius", //18
+    "Rogg", //19
+    "Greeius", //20
+    "Greeius", //21
+    "Rogg", //22
+    "Greeius" //23
+  ],
+  "images": [
+    "../../image/default1.jpg", //1
+    "../../image/default1.jpg", //2
+    "../../image/default1.jpg", //3
+    "../../image/default2.jpg", //4
+    "../../image/default2.jpg", //5
+    "../../image/default2.jpg", //6
+    "../../image/default2.jpg", //7
+    "../../image/default2.jpg", //8
+    "../../image/default2.jpg", //9
+    "../../image/default2.jpg", //10
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg" 
+  ]
+}
