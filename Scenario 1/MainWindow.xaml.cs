@@ -79,7 +79,7 @@ namespace Scenario_1
                 txtVisualNovelText.Text = linesOfText[currentIndex];
                 ApplyTypingAnimation(linesOfText[currentIndex]);
                 txtVisualNovelName.Text = charcterNames[currentIndex];
-                //imgVisual1.Source = new BitmapImage(new Uri(charImage[currentIndex])); //Image cannot change, just an inheirant weakness of the file.
+              //  imgVisual1.Source = new BitmapImage(new Uri(charImage[currentIndex],UriKind.Relative)); //Image cannot change, just an inheirant weakness of the file.
                 currentIndex++;
             }
             else

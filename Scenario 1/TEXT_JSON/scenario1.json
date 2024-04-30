@@ -4,7 +4,7 @@
     "Ah. I know. My name.", //2
     "I suppose that 'Len' should do for now.", //3
     "Im just some wage slave working for peanuts, if anything.", //4
-    "Taking this bit a little far, don't you think?", //5
+    "Taking this bit a little far, don't you think?", 
     "Nah, I'm not even joking. Im literally working for nothing.", //6
     "Im confined to this instant noodle lifestyle.", //7
     "Help is what I need, not going to lie.", //8
@@ -48,10 +48,27 @@
     "Len" //22
   ],
   "images": [
-    "image/default1.jpg",
-    "image/default1.jpg",
-    "image/default1.jpg",
-    "image/default2.jpg",
-    "image/default2.jpg"
+    "../../image/default1.jpg", //1
+    "../../image/default1.jpg", //2
+    "../../image/default1.jpg", //3
+    "../../image/default2.jpg", //4
+    "../../image/default2.jpg", //5
+    "../../image/default2.jpg", //6
+    "../../image/default2.jpg", //7
+    "../../image/default2.jpg", //8
+    "../../image/default2.jpg", //9
+    "../../image/default2.jpg", //10
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg", 
+    "../../image/default2.jpg" 
   ]
 }
