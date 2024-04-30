@@ -96,10 +96,29 @@
     "Suguri" //46
   ],
   "images": [
-    "image/default1.jpg",
-    "image/default1.jpg",
-    "image/default1.jpg",
-    "image/default2.jpg",
-    "image/default2.jpg"
+    "../../image/default1.jpg",
+    "../../image/default1.jpg",
+    "../../image/default1.jpg",
+    "../../image/default2.jpg",
+    "../../image/default2.jpg",
+    "../../image/default2.jpg",
+    "../../image/default2.jpg",
+    "../../image/default2.jpg",
+    "../../image/default2.jpg",
+    "../../image/default2.jpg",
+    "../../image/default2.jpg",
+    "../../image/default2.jpg",
+    "../../image/default2.jpg",
+    "../../image/default2.jpg",
+    "../../image/default2.jpg",
+    "../../image/default2.jpg",
+    "../../image/default2.jpg",
+    "../../image/default2.jpg",
+    "../../image/default2.jpg",
+    "../../image/default2.jpg",
+    "../../image/default2.jpg",
+    "../../image/default2.jpg",
+    "../../image/default2.jpg",
+    "../../image/default2.jpg"
   ]
 }

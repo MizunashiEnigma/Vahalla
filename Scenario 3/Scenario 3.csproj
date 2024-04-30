@@ -126,5 +126,8 @@
   <ItemGroup>
     <Resource Include="image\think1.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="image\Suguri in WonderLand and the Enigmatic Hatter.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
